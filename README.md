@@ -2,4 +2,7 @@
 
 ## **A beginner C++ Developer from Poland**
 
-Continuously improving problem solving, art. Bit by bit compounding my knowledge!
+- Currently focusing on my hobbies
+- Working with *C++* with *SDL2*
+- 📫 You can reach me through *[twitter](https://x.com/_DoNotThink)*
+- Ask me about anything
